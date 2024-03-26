@@ -18,7 +18,7 @@ const LaunchListWidget: React.FC = () => {
           <Input type="email" name="email" placeholder="Enter your email" mb={3} />
           {/* Submit Button */}
           <center>
-          <Button type="submit" bgColor="white">SIGN UP NOW!</Button>
+          <Button type="submit" >SIGN UP NOW!</Button>
           </center>
         </form>
       </Box>
